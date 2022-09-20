@@ -44,7 +44,7 @@ This exercise will be graded on a number of criteria including, but not limited 
 
 ### Submission
 
-Please commit all of your work to a *private* GitHub repository. When you are finished, invite the [rhys-at-speer](https://github.com/rhys-at-speer) account and email a link of the repository to [clement.shum@speer.io](mailto:clement.shum@speer.io) with the subject line:
+Please commit all of your work to a *private* GitHub repository. When you are finished, invite the [ffranqui-at-speer](https://github.com/ffranqui-at-speer) account and email a link of the repository to [clement.shum@speer.io](mailto:clement.shum@speer.io) with the subject line:
 
 **Android Developer Assessment - [Your Name]**.
 
