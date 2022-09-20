@@ -3,7 +3,7 @@
 
 ## Overview
 
-The goal of this assessment is to build a basic Android application which demonstrates common tasks such as fetching data, parsing model entities from JSON, UI, and navigation. 
+The goal of this assessment is to build a basic Android application which demonstrates common tasks such as fetching data, parsing model entities from JSON, UI, and navigation. You may write the app using what you're most comfortable with, whether it's Java or Kotlin.
 
 ### Requirements
 
