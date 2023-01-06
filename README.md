@@ -41,4 +41,8 @@ This exercise will be graded on a number of criteria including, but not limited 
 - Adherence to the SOLID principles
 - Utilization of an architectural pattern
 
+
+### Submission
+After you're done with the assignment, please submit a link to the **GitHub/Bitbucket repository** (make sure it's public) with your code. Submissions without a valid repository will be removed from any further consideration.
+
 #### Goodluck!
